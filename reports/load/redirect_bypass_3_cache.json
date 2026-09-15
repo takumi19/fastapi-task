@@ -1,0 +1,13 @@
+{
+  "cache_hits": 0,
+  "cache_misses": 26247,
+  "final_stats": {
+    "requests": 26247,
+    "failures": 0,
+    "rps": 1305.965385028169,
+    "mean_ms": 14.787623120760703,
+    "p50_ms": 5,
+    "p95_ms": 10,
+    "p99_ms": 200
+  }
+}
